@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4FE0B71F-B7EA-40E7-977A-FFBD656E3D12}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>QuanLyQuanCafe.My.MyApplication</StartupObject>
+    <RootNamespace>QuanLyQuanCafe</RootNamespace>
+    <AssemblyName>QuanLyQuanCafe</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>QuanLyQuanCafe.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>QuanLyQuanCafe.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\AccountDAO.vb" />
+    <Compile Include="DAO\BillDAO.vb" />
+    <Compile Include="DAO\BillInfoDAO.vb" />
+    <Compile Include="DAO\DataProvider.vb" />
+    <Compile Include="DAO\DrinkCategoryDAO.vb" />
+    <Compile Include="DAO\DrinksDAO.vb" />
+    <Compile Include="DAO\MenuDAO.vb" />
+    <Compile Include="DAO\RevenueDAO.vb" />
+    <Compile Include="DAO\TableDAO.vb" />
+    <Compile Include="DAO\TableTotalDAO.vb" />
+    <Compile Include="DTO\Account.vb" />
+    <Compile Include="DTO\Bill.vb" />
+    <Compile Include="DTO\BillInfo.vb" />
+    <Compile Include="DTO\Drinks.vb" />
+    <Compile Include="DTO\DrinkCategory.vb" />
+    <Compile Include="DTO\Menu.vb" />
+    <Compile Include="DTO\Revenue.vb" />
+    <Compile Include="DTO\shareDrink.vb" />
+    <Compile Include="DTO\Table.vb" />
+    <Compile Include="DTO\TableTotal.vb" />
+    <Compile Include="GUI\frmBillInfo.Designer.vb">
+      <DependentUpon>frmBillInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmBillInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAdmin.Designer.vb">
+      <DependentUpon>frmAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmShareTable.Designer.vb">
+      <DependentUpon>frmShareTable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmShareTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmShare_Table.Designer.vb">
+      <DependentUpon>frmShare_Table.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmShare_Table.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmSwichTable.Designer.vb">
+      <DependentUpon>frmSwichTable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmSwichTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmTableInfo.Designer.vb">
+      <DependentUpon>frmTableInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmTableInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAllTable.Designer.vb">
+      <DependentUpon>frmAllTable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAllTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="GUI\frmBillInfo.resx">
+      <DependentUpon>frmBillInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAdmin.resx">
+      <DependentUpon>frmAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmShareTable.resx">
+      <DependentUpon>frmShareTable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmShare_Table.resx">
+      <DependentUpon>frmShare_Table.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmSwichTable.resx">
+      <DependentUpon>frmSwichTable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmTableInfo.resx">
+      <DependentUpon>frmTableInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAllTable.resx">
+      <DependentUpon>frmAllTable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash-can.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

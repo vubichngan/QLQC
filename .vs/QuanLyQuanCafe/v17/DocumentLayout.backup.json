@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\QuanLyQuan_CaFe\\QuanLyQuanCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE0B71F-B7EA-40E7-977A-FFBD656E3D12}|QuanLyQuanCafe\\QuanLyQuanCafe.vbproj|C:\\Users\\ADMIN\\Desktop\\QuanLyQuan_CaFe\\QuanLyQuanCafe\\quanlyquancafe\\gui\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4FE0B71F-B7EA-40E7-977A-FFBD656E3D12}|QuanLyQuanCafe\\QuanLyQuanCafe.vbproj|solutionrelative:quanlyquancafe\\gui\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE0B71F-B7EA-40E7-977A-FFBD656E3D12}|QuanLyQuanCafe\\QuanLyQuanCafe.vbproj|C:\\Users\\ADMIN\\Desktop\\QuanLyQuan_CaFe\\QuanLyQuanCafe\\quanlyquancafe\\gui\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4FE0B71F-B7EA-40E7-977A-FFBD656E3D12}|QuanLyQuanCafe\\QuanLyQuanCafe.vbproj|solutionrelative:quanlyquancafe\\gui\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\QuanLyQuan_CaFe\\QuanLyQuanCafe\\QuanLyQuanCafe\\GUI\\frmLogin.vb",
+              "RelativeDocumentMoniker": "QuanLyQuanCafe\\GUI\\frmLogin.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\QuanLyQuan_CaFe\\QuanLyQuanCafe\\QuanLyQuanCafe\\GUI\\frmLogin.vb",
+              "RelativeToolTip": "QuanLyQuanCafe\\GUI\\frmLogin.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-28T03:25:58.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\QuanLyQuan_CaFe\\QuanLyQuanCafe\\QuanLyQuanCafe\\GUI\\frmLogin.vb",
+              "RelativeDocumentMoniker": "QuanLyQuanCafe\\GUI\\frmLogin.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\QuanLyQuan_CaFe\\QuanLyQuanCafe\\QuanLyQuanCafe\\GUI\\frmLogin.vb [Design]",
+              "RelativeToolTip": "QuanLyQuanCafe\\GUI\\frmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-28T03:25:54.266Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
