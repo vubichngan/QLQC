@@ -2,13 +2,13 @@
 
 Đây là hướng dẫn sử dụng phần mềm cho người dùng
 
-***Để sử dụng phần mềm, bước đầu tiên bạn phải tạo một cơ sở dữ liệu (Sử dụng SQL Server) và dùng [SQL Query](https://github.com/F4Team-DHCN1A/QLSV/blob/master/qlsv.sql) này để tạo các table và các proceduce cần thiết cho phần mềm.***
+***Để sử dụng phần mềm, bước đầu tiên bạn phải tạo một cơ sở dữ liệu (Sử dụng SQL Server) và dùng [SQL Query](https://github.com/vubichngan/QLQC/blob/main/data.sql) này để tạo các table và các proceduce cần thiết cho phần mềm.***
 
 1) **Giao diện đăng nhập**
 
 **Khi bạn mở phần mềm sẽ đi tới giao diện đăng nhập của chương trình**
 
-![][image1]
+
 
 * Chức năng: Đăng nhập tài khoản để vào giao diện chính thực hiện các chức năng khác theo phân quyền tài khoản
 
