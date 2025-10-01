@@ -1,14 +1,14 @@
-**Tài liệu cho người dùng cuối**
+# **Tài liệu cho người dùng cuối**
 
 Đây là hướng dẫn sử dụng phần mềm cho người dùng
 
 ***Để sử dụng phần mềm, bước đầu tiên bạn phải tạo một cơ sở dữ liệu (Sử dụng SQL Server) và dùng [SQL Query](https://github.com/vubichngan/QLQC/blob/main/data.sql) này để tạo các table và các proceduce cần thiết cho phần mềm.***
 
-1) **Giao diện đăng nhập**
+## **1) Giao diện đăng nhập**
 
-**Khi bạn mở phần mềm sẽ đi tới giao diện đăng nhập của chương trình**
+### **Khi bạn mở phần mềm sẽ đi tới giao diện đăng nhập của chương trình**
 
-
+<img width="434" height="411" alt="Screenshot 2025-09-26 144228" src="https://github.com/user-attachments/assets/2e6a24a5-2530-46fe-b05b-69ff34d677d5" />
 
 * Chức năng: Đăng nhập tài khoản để vào giao diện chính thực hiện các chức năng khác theo phân quyền tài khoản
 
@@ -18,26 +18,25 @@
 
   * Click chọn nút Đăng nhập để di chuyển đến giao diện chính
 
-2) **Giao diện chính**
+## **2) Giao diện chính**
 
-**![][image2]**
+<img width="979" height="769" alt="Screenshot 2025-09-26 150205" src="https://github.com/user-attachments/assets/16925f76-d60a-4f3e-ba9c-7f79dfbc4f56" />
 
 * Chức năng: Hiển thị các bàn có trong quán, với các bàn có hóa đơn chưa thanh toán sẽ có màu vàng và hiển thị tổng số tiền cần thanh toán.
 
 * Hướng dẫn: Click chọn bàn để thực hiện các chức năng.
 
-**Sau đây là các chức năng của chương trình**
+## **Sau đây là các chức năng của chương trình**
 
-3) **Quản lý hóa đơn cho bàn**
+## **3) Quản lý hóa đơn cho bàn**
 
-![][image3]
+<img width="1141" height="739" alt="Screenshot 2025-09-26 153347" src="https://github.com/user-attachments/assets/6f8558d5-5bb4-43d2-8dbb-c90e42032186" />
 
 * Chức năng: Quản lý các thức uống trong 1 bàn, bạn có thể Thêm/Sửa/Xóa số lượng các thức uống có trong hóa đơn của bàn.
 
 * Hướng dẫn:
 
   * Thêm các thức uống từ thực đơn bên trái.
-
   * Sửa số lượng thức uống sau khi thêm được hiển thị bên phải bằng các nút \+ / \-.  
   * Xóa thức uống đã thêm bằng nút ![][image4]bên cạnh thức uống.
 
