@@ -20,7 +20,7 @@
 
 ## **2) Giao diện chính**
 
-<img width="490" height="385" alt="Screenshot 2025-09-26 150205" src="https://github.com/user-attachments/assets/16925f76-d60a-4f3e-ba9c-7f79dfbc4f56" />
+<img width="587" height="461" alt="Screenshot 2025-09-26 150205" src="https://github.com/user-attachments/assets/16925f76-d60a-4f3e-ba9c-7f79dfbc4f56" />
 
 * Chức năng: Hiển thị các bàn có trong quán, với các bàn có hóa đơn chưa thanh toán sẽ có màu vàng và hiển thị tổng số tiền cần thanh toán.
 
@@ -30,7 +30,7 @@
 
 ## **3) Quản lý hóa đơn cho bàn**
 
-<img width="570" height="369" alt="Screenshot 2025-09-26 153347" src="https://github.com/user-attachments/assets/6f8558d5-5bb4-43d2-8dbb-c90e42032186" />
+<img width="684" height="443" alt="Screenshot 2025-09-26 153347" src="https://github.com/user-attachments/assets/6f8558d5-5bb4-43d2-8dbb-c90e42032186" />
 
 * Chức năng: Quản lý các thức uống trong 1 bàn, bạn có thể Thêm/Sửa/Xóa số lượng các thức uống có trong hóa đơn của bàn.
 
@@ -55,23 +55,23 @@
 
   * Giao diện tất cả các bàn sẽ được hiển thị như hình bên dưới
 
-<img width="657" height="518" alt="Screenshot 2025-09-26 160057" src="https://github.com/user-attachments/assets/29c460ef-1218-4cb6-8c0d-3db072f0993d" />
+<img width="590" height="465" alt="Screenshot 2025-09-26 160057" src="https://github.com/user-attachments/assets/29c460ef-1218-4cb6-8c0d-3db072f0993d" />
 
   * Chọn bàn cần chuyển đến
 
   * Thông báo xác nhận chuyển bàn được hiển thị
 
-<img width="653" height="514" alt="Screenshot 2025-09-26 160359" src="https://github.com/user-attachments/assets/49110414-67d1-4046-bc60-342ab78f8fc3" />
+<img width="588" height="463" alt="Screenshot 2025-09-26 160359" src="https://github.com/user-attachments/assets/49110414-67d1-4046-bc60-342ab78f8fc3" />
 
   * Chọn OK, giao diện hóa đơn bàn cần di chuyển được hiển thị và làm mới.
 
-<img width="762" height="497" alt="Screenshot 2025-09-26 160635" src="https://github.com/user-attachments/assets/debefb99-659f-4bdb-b758-b28ed85075dd" />
+<img width="686" height="447" alt="Screenshot 2025-09-26 160635" src="https://github.com/user-attachments/assets/debefb99-659f-4bdb-b758-b28ed85075dd" />
 
   * Thoát khỏi giao diện quản lý hóa đơn theo bàn.
 
   * Hiển thị giao diện chính và hóa đơn bàn cần di chuyển đã chuyển sang bàn mới.
 
-<img width="654" height="516" alt="Screenshot 2025-09-26 160919" src="https://github.com/user-attachments/assets/0646b52b-eff2-4665-bd40-db5d084c35af" />
+<img width="589" height="465" alt="Screenshot 2025-09-26 160919" src="https://github.com/user-attachments/assets/0646b52b-eff2-4665-bd40-db5d084c35af" />
 
 ## **5) Tách bàn**
 
