@@ -15,11 +15,11 @@
 
 ## **Sơ đồ phân rã chức năng (BFD)**
 
-Sơ đồ phân rã chức năng của quản lý  
+### **Sơ đồ phân rã chức năng của quản lý**
 <img width="1212" height="575" alt="Screenshot 2025-09-27 103747" src="https://github.com/user-attachments/assets/416582dd-5c60-400e-8a0c-49ff4b3f51c0" />
 
 
-Sơ đồ phân rã chức năng của nhân viên  
+### **Sơ đồ phân rã chức năng của nhân viên**
 <img width="794" height="540" alt="Screenshot 2025-09-27 212105" src="https://github.com/user-attachments/assets/d248c856-d930-48a3-a845-645c60b81d06" />
 
 ## **Sơ đồ thực thể \- quan hệ (ERD)**
