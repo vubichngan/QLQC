@@ -1,6 +1,6 @@
 # **PHẦN MỀM QUẢN QUÁN CAFE** 
 
-##**Lời mở đầu**
+## **Lời mở đầu**
 
 Với sự phát triển nhanh chóng của công nghệ thông tin đã ra đời nhiều công cụ hữu ích giúp chúng ta tiết kiệm rất nhiều thời gian và chi phí. Nhiều phần mềm trong lĩnh vực công nghệ thông tin nhanh chóng ra đời đã góp phần đáng kể. Chính vì vậy, mỗi công ty, mỗi cơ quan đều muốn xây dựng riêng cho mình một phần mềm quản lý.
 
