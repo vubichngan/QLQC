@@ -18,23 +18,23 @@ Chào các bạn, đây là tài liệu dành cho những ai muốn phát triể
 
 * Giáo Trình Thiết Kế Hệ Thống Thông Tin
 
-```https://www.slideshare.net/votanphuc/gt-pttk-hethongthongtin 
+``` https://www.slideshare.net/votanphuc/gt-pttk-hethongthongtin 
 ```
 * Blog Thiết Kế Hệ Thống Thông Tin
 
-```[http://iviettech.vn/category/blog/phan-tich-thiet-ke-he-thong](http://iviettech.vn/category/blog/phan-tich-thiet-ke-he-thong)
+``` [http://iviettech.vn/category/blog/phan-tich-thiet-ke-he-thong](http://iviettech.vn/category/blog/phan-tich-thiet-ke-he-thong)
 ```
 ### **Quản trị csdl SQLSever**
 
 * Hướng dẫn cài đặt và cấu hình SQL Sever
 
-```[https://datapot.vn/huong-dan-cai-dat-sql-server-2022-moi-nhat/](https://datapot.vn/huong-dan-cai-dat-sql-server-2022-moi-nhat/)
+``` [https://datapot.vn/huong-dan-cai-dat-sql-server-2022-moi-nhat/](https://datapot.vn/huong-dan-cai-dat-sql-server-2022-moi-nhat/)
 ```
 ### **Lập trình VB.NET**
 
 * Hướng dẫn cài đặt và cấu hình SQL Sever
 
-```[https://www.youtube.com/watch?v=2fanjSYVElY\&list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw](https://www.youtube.com/watch?v=2fanjSYVElY&list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw)
+``` [https://www.youtube.com/watch?v=2fanjSYVElY\&list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw](https://www.youtube.com/watch?v=2fanjSYVElY&list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw)
 ```
 * Học lập trình VB.NET cơ bản
 
