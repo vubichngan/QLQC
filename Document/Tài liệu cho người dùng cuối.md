@@ -38,11 +38,12 @@
 
   * Thêm các thức uống từ thực đơn bên trái.
   * Sửa số lượng thức uống sau khi thêm được hiển thị bên phải bằng các nút \+ / \-.  
-  * Xóa thức uống đã thêm bằng nút ![][image4]bên cạnh thức uống.
+  * Xóa thức uống đã thêm bằng nút <img width="24" height="24" alt="trash-can" src="https://github.com/user-attachments/assets/d6e53035-9672-429d-a907-37792d519255" />
+ bên cạnh thức uống.
 
-4) **Chuyển bàn**
+## **4) Chuyển bàn**
 
-![][image5]
+<img width="760" height="521" alt="Screenshot 2025-09-26 155440" src="https://github.com/user-attachments/assets/fc95ae9c-259a-4005-a0b5-51cf20d4f0a7" />
 
 * Chức năng: Chuyển hóa đơn từ bàn này sang bàn khác.
 
@@ -50,29 +51,29 @@
 
   * Chọn bàn cần di chuyển hóa đơn
 
-  * Chọn nút ![][image6] và chọn Chuyển bàn
+  * Chọn nút <img width="32" height="32" alt="menu" src="https://github.com/user-attachments/assets/418c7911-4f7f-46b6-9975-61f78ae2ffe8" /> và chọn Chuyển bàn
 
   * Giao diện tất cả các bàn sẽ được hiển thị như hình bên dưới
 
-![][image7]
+<img width="657" height="518" alt="Screenshot 2025-09-26 160057" src="https://github.com/user-attachments/assets/29c460ef-1218-4cb6-8c0d-3db072f0993d" />
 
-* Chọn bàn cần chuyển đến
+  * Chọn bàn cần chuyển đến
 
   * Thông báo xác nhận chuyển bàn được hiển thị
 
-![][image8]
+<img width="653" height="514" alt="Screenshot 2025-09-26 160359" src="https://github.com/user-attachments/assets/49110414-67d1-4046-bc60-342ab78f8fc3" />
 
-* Chọn OK, giao diện hóa đơn bàn cần di chuyển được hiển thị và làm mới.
+  * Chọn OK, giao diện hóa đơn bàn cần di chuyển được hiển thị và làm mới.
 
-![][image9]
+<img width="762" height="497" alt="Screenshot 2025-09-26 160635" src="https://github.com/user-attachments/assets/debefb99-659f-4bdb-b758-b28ed85075dd" />
 
-* Thoát khỏi giao diện quản lý hóa đơn theo bàn.
+  * Thoát khỏi giao diện quản lý hóa đơn theo bàn.
 
   * Hiển thị giao diện chính và hóa đơn bàn cần di chuyển đã chuyển sang bàn mới.
 
-![][image10]
+<img width="654" height="516" alt="Screenshot 2025-09-26 160919" src="https://github.com/user-attachments/assets/0646b52b-eff2-4665-bd40-db5d084c35af" />
 
-5) **Tách bàn**
+## **5) Tách bàn**
 
 **![][image11]**
 
