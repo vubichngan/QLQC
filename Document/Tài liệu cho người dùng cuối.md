@@ -30,7 +30,7 @@
 
 ## **3) Quản lý hóa đơn cho bàn**
 
-<img width="1141" height="739" alt="Screenshot 2025-09-26 153347" src="https://github.com/user-attachments/assets/6f8558d5-5bb4-43d2-8dbb-c90e42032186" />
+<img width="761" height="493" alt="Screenshot 2025-09-26 153347" src="https://github.com/user-attachments/assets/6f8558d5-5bb4-43d2-8dbb-c90e42032186" />
 
 * Chức năng: Quản lý các thức uống trong 1 bàn, bạn có thể Thêm/Sửa/Xóa số lượng các thức uống có trong hóa đơn của bàn.
 
