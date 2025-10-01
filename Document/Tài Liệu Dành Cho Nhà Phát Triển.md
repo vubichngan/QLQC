@@ -22,7 +22,7 @@ Chào các bạn, đây là tài liệu dành cho những ai muốn phát triể
 
 * Blog Thiết Kế Hệ Thống Thông Tin
 
-[http://iviettech.vn/category/blog/phan-tich-thiet-ke-he-thong](http://iviettech.vn/category/blog/phan-tich-thiet-ke-he-thong)
+```[http://iviettech.vn/category/blog/phan-tich-thiet-ke-he-thong](http://iviettech.vn/category/blog/phan-tich-thiet-ke-he-thong)```
 
 **Quản trị csdl SQLSever**
 
