@@ -20,7 +20,7 @@
 
 ## **2) Giao diện chính**
 
-<img width="652" height="512" alt="Screenshot 2025-09-26 150205" src="https://github.com/user-attachments/assets/16925f76-d60a-4f3e-ba9c-7f79dfbc4f56" />
+<img width="490" height="385" alt="Screenshot 2025-09-26 150205" src="https://github.com/user-attachments/assets/16925f76-d60a-4f3e-ba9c-7f79dfbc4f56" />
 
 * Chức năng: Hiển thị các bàn có trong quán, với các bàn có hóa đơn chưa thanh toán sẽ có màu vàng và hiển thị tổng số tiền cần thanh toán.
 
@@ -30,7 +30,7 @@
 
 ## **3) Quản lý hóa đơn cho bàn**
 
-<img width="761" height="493" alt="Screenshot 2025-09-26 153347" src="https://github.com/user-attachments/assets/6f8558d5-5bb4-43d2-8dbb-c90e42032186" />
+<img width="570" height="369" alt="Screenshot 2025-09-26 153347" src="https://github.com/user-attachments/assets/6f8558d5-5bb4-43d2-8dbb-c90e42032186" />
 
 * Chức năng: Quản lý các thức uống trong 1 bàn, bạn có thể Thêm/Sửa/Xóa số lượng các thức uống có trong hóa đơn của bàn.
 
