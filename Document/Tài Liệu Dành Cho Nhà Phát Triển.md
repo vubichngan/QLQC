@@ -18,7 +18,7 @@ Chào các bạn, đây là tài liệu dành cho những ai muốn phát triể
 
 * Giáo Trình Thiết Kế Hệ Thống Thông Tin
 
-``` https://www.slideshare.net/votanphuc/gt-pttk-hethongthongtin 
+https://www.slideshare.net/votanphuc/gt-pttk-hethongthongtin 
 
 * Blog Thiết Kế Hệ Thống Thông Tin
 
