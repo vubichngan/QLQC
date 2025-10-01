@@ -28,7 +28,7 @@ Sơ đồ phân rã chức năng của nhân viên
 
 ## **Thiết kế và mô tả mô hình dữ liệu vật lý**
 
-1) ### **Bảng Account**
+### **1) Bảng Account**
 
 <img width="428" height="132" alt="Screenshot 2025-09-27 212946" src="https://github.com/user-attachments/assets/287c8c42-948a-48d2-89bf-d31bfc8b4656" />
 
@@ -43,7 +43,7 @@ Sơ đồ phân rã chức năng của nhân viên
 * type: Phân quyền người dùng (1: Quản lý/ 0: Nhân viên)
 
 
-2) ### **Bảng DrinkTable**
+### **2) Bảng DrinkTable**
 
 <img width="437" height="109" alt="Screenshot 2025-09-28 080934" src="https://github.com/user-attachments/assets/40543f70-1164-45ea-9511-ee87ccdc8900" />
 
@@ -56,7 +56,7 @@ Sơ đồ phân rã chức năng của nhân viên
 * status: Trạng thái (Trống/ Có người)
 
 
-3) ### **Bảng DrinkCategory**
+### **3) Bảng DrinkCategory**
 
 <img width="405" height="83" alt="Screenshot 2025-09-28 082636" src="https://github.com/user-attachments/assets/67b9a867-b75b-45b5-8044-e73f9f8e649b" />
 
@@ -66,7 +66,7 @@ Sơ đồ phân rã chức năng của nhân viên
 
 * name: Tên loại thức uống
 
-4) ### **Bảng Drinks**
+### **4) Bảng Drinks**
 
 <img width="445" height="163" alt="Screenshot 2025-09-28 083013" src="https://github.com/user-attachments/assets/60f17d10-5769-4039-bf1f-702eb57bd804" />
 
@@ -82,7 +82,7 @@ Sơ đồ phân rã chức năng của nhân viên
 
 * quantity: Số lượng thức uống trong kho
 
-5) ### **Bảng Bill**
+### **5) Bảng Bill**
 
 <img width="457" height="192" alt="Screenshot 2025-09-28 105141" src="https://github.com/user-attachments/assets/5adcc966-5562-4e0d-9de6-61ca1a941c09" />
 
@@ -100,7 +100,7 @@ Sơ đồ phân rã chức năng của nhân viên
 
 * status: Trạng thái hóa đơn (1: đã thanh toán/ 0: chưa thanh toán)
 
-6) ### **Bảng BillInFo**
+### **6) Bảng BillInFo**
 
 <img width="423" height="136" alt="Screenshot 2025-09-28 110538" src="https://github.com/user-attachments/assets/8ae4f997-be03-4a5f-826c-fc2198a95935" />
 
