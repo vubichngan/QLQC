@@ -20,7 +20,7 @@
 
 
 ### **Sơ đồ phân rã chức năng của nhân viên**
-<img width="794" height="540" alt="Screenshot 2025-09-27 212105" src="https://github.com/user-attachments/assets/d248c856-d930-48a3-a845-645c60b81d06" />
+<img width="650" height="442" alt="Screenshot 2025-09-27 212105" src="https://github.com/user-attachments/assets/d248c856-d930-48a3-a845-645c60b81d06" />
 
 ## **Sơ đồ thực thể \- quan hệ (ERD)**
 
