@@ -8,7 +8,7 @@
 
 ### **Khi bạn mở phần mềm sẽ đi tới giao diện đăng nhập của chương trình**
 
-<img width="217" height="204" alt="Screenshot 2025-09-26 144228" src="https://github.com/user-attachments/assets/2e6a24a5-2530-46fe-b05b-69ff34d677d5" />
+<img width="290" height="275" alt="Screenshot 2025-09-26 144228" src="https://github.com/user-attachments/assets/2e6a24a5-2530-46fe-b05b-69ff34d677d5" />
 
 * Chức năng: Đăng nhập tài khoản để vào giao diện chính thực hiện các chức năng khác theo phân quyền tài khoản
 
@@ -20,7 +20,7 @@
 
 ## **2) Giao diện chính**
 
-<img width="979" height="769" alt="Screenshot 2025-09-26 150205" src="https://github.com/user-attachments/assets/16925f76-d60a-4f3e-ba9c-7f79dfbc4f56" />
+<img width="652" height="512" alt="Screenshot 2025-09-26 150205" src="https://github.com/user-attachments/assets/16925f76-d60a-4f3e-ba9c-7f79dfbc4f56" />
 
 * Chức năng: Hiển thị các bàn có trong quán, với các bàn có hóa đơn chưa thanh toán sẽ có màu vàng và hiển thị tổng số tiền cần thanh toán.
 
