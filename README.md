@@ -12,16 +12,16 @@ Mục tiêu là nhằm tạo ra phần mềm Quản lý quán cafe với các ch
 
 Qua đó tạo điều kiện cho các nhà phát triển có thể fix các lỗi và phát triển phần mềm tối ưu hơn, có thể áp dụng vào trong quá trình thực tế. Bởi lẽ do kiến thức còn hạn chế, ý tưởng chưa có nhiều nên phần mềm chưa được hoàn thiện.
 
-**Lập trình viên thực hiện**  
+## **Lập trình viên thực hiện**  
 Vũ Bích Ngân  
 SĐT: 0968754534  
 Email: [vubichngan10t@gmail.com](mailto:vubichngan10t@gmail.com)
 
-**Thông tin tổ chức mã nguồn**  
+## **Thông tin tổ chức mã nguồn**  
 <img width="529" height="221" alt="Screenshot 2025-09-25 194617" src="https://github.com/user-attachments/assets/35e39ea8-0f53-456f-bf3c-fbca0e98745d" />
 <img width="402" height="797" alt="Screenshot 2025-09-25 193954" src="https://github.com/user-attachments/assets/f38978c3-9204-4c13-ab1d-46443c30db08" />
 
-**Mã nguồn được phân chia theo 3 Tầng như sau:**
+#### **Mã nguồn được phân chia theo 3 Tầng như sau:**
 
 * Tầng DAO chứa các module xử lý các sự kiện của đối tượng trong từng Form giao diện, file DataProvider.vb chứa kết nối đến CSDL.
 
@@ -29,8 +29,8 @@ Email: [vubichngan10t@gmail.com](mailto:vubichngan10t@gmail.com)
 
 * Tầng GUI chứa các Form giao diện, frmMain.vb trong tầng này sẽ là chương trình chính gọi tất cả các Form khác khi click sự kiện.
 
-**Nền tảng xây dựng**  
-[VB.NET](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) \- **Nền tảng hệ thống phần mềm**
+## **Nền tảng xây dựng**  
+#### [VB.NET](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) \- **Nền tảng hệ thống phần mềm**
 
 * Visual Basic (VB), đôi khi được gọi là Visual Basic cổ điển, là ngôn ngữ lập trình thế hệ thứ ba dựa trên BASIC, cũng như môi trường phát triển tích hợp (IDE) liên quan.
 
@@ -48,25 +48,25 @@ Email: [vubichngan10t@gmail.com](mailto:vubichngan10t@gmail.com)
 
 * VB.NET được thiết kế sao cho dễ hiểu đối với cả người lập trình mới và người lập trình nâng cao. Các chương trình được viết bằng ngôn ngữ này chạy với độ tin cậy và khả năng mở rộng cao, phù hợp cho phát triển ứng dụng Windows lẫn Web.
 
-[MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) **\- Nền tảng cơ sở dữ liệu**
+#### [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) **\- Nền tảng cơ sở dữ liệu**
 
 * SQL Server là một hệ quản trị cơ sở dữ liệu quan hệ (Relational Database Management System (RDBMS) ) sử dụng câu lệnh SQL (Transact-SQL) để trao đổi dữ liệu giữa máy Client và máy cài SQL Server. Một RDBMS bao gồm databases, database engine và các ứng dụng dùng để quản lý dữ liệu và các bộ phận khác nhau trong RDBMS.
 
 * SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server có thể kết hợp “ăn ý” với các server khác như Microsoft Internet Information Server (IIS), E-Commerce Server, Proxy Server…
 
-**Tài liệu cho người dùng cuối**
+## **Tài liệu cho người dùng cuối**
 
 * Để xem tài liệu cho người dùng cuối, Vui lòng tham khảo [tại đây](https://github.com/vubichngan/QLQC/blob/main/Document/T%C3%A0i%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20cu%E1%BB%91i.md)
 
-**Tài liệu cho nhà phát triển**
+## **Tài liệu cho nhà phát triển**
 
 * Để xem tài liệu cho nhà phát triển, Vui lòng tham khảo [tại đây](https://github.com/vubichngan/QLQC/blob/main/Document/T%C3%A0i%20Li%E1%BB%87u%20D%C3%A0nh%20Cho%20Nh%C3%A0%20Ph%C3%A1t%20Tri%E1%BB%83n.md)
 
-**Tài liệu thiết kế**
+## **Tài liệu thiết kế**
 
 * Để xem tài liệu thiết kế, Vui lòng tham khảo [tại đây](https://github.com/vubichngan/QLQC/blob/main/Document/T%C3%A0i%20li%E1%BB%87u%20thi%E1%BA%BFt%20k%E1%BA%BF.md)
 
-**Danh sách lỗi**
+## **Danh sách lỗi**
 
 * Giao diện chưa đẹp,
 
