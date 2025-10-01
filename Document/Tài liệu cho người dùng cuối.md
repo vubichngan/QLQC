@@ -43,7 +43,7 @@
 
 ## **4) Chuyển bàn**
 
-<img width="760" height="521" alt="Screenshot 2025-09-26 155440" src="https://github.com/user-attachments/assets/fc95ae9c-259a-4005-a0b5-51cf20d4f0a7" />
+<img width="683" height="468" alt="Screenshot 2025-09-26 155440" src="https://github.com/user-attachments/assets/fc95ae9c-259a-4005-a0b5-51cf20d4f0a7" />
 
 * Chức năng: Chuyển hóa đơn từ bàn này sang bàn khác.
 
