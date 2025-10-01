@@ -24,7 +24,7 @@
 
 ## **Sơ đồ thực thể \- quan hệ (ERD)**
 
-<img width="1195" height="663" alt="Screenshot 2025-09-28 103219" src="https://github.com/user-attachments/assets/d2e6ded9-c14a-4b90-b644-a1fcf1e27a03" />
+<img width="950" height="527" alt="Screenshot 2025-09-28 103219" src="https://github.com/user-attachments/assets/d2e6ded9-c14a-4b90-b644-a1fcf1e27a03" />
 
 ## **Thiết kế và mô tả mô hình dữ liệu vật lý**
 
