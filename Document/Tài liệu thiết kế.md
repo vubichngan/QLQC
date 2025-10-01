@@ -10,7 +10,7 @@
 
 ## **Sơ đồ phân rã phần mềm**
 
-<img width="745" height="421" alt="Screenshot 2025-09-27 093246" src="https://github.com/user-attachments/assets/4775e82c-a551-45ba-aaf2-889cb577ef35" />
+<img width="650" height="367" alt="Screenshot 2025-09-27 093246" src="https://github.com/user-attachments/assets/4775e82c-a551-45ba-aaf2-889cb577ef35" />
 
 
 ## **Sơ đồ phân rã chức năng (BFD)**
