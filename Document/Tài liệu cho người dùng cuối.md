@@ -94,27 +94,27 @@
 
   * Nhấn nút Chuyển, giao diện tất cả các bàn sẽ được hiển thị như hình bên dưới
 
-<img width="596" height="465" alt="Screenshot 2025-09-26 171319" src="https://github.com/user-attachments/assets/a63b5534-efce-4155-8f9f-f7e53018101a" />
+<img width="589" height="465" alt="Screenshot 2025-09-26 160919" src="https://github.com/user-attachments/assets/0646b52b-eff2-4665-bd40-db5d084c35af" />
 
   * Chọn bàn cần chuyển đến
 
   * Thông báo xác nhận chuyển bàn được hiển thị
 
-<img width="687" height="448" alt="Screenshot 2025-09-26 171500" src="https://github.com/user-attachments/assets/a6faa74f-69d0-4c75-a72c-237618358cac" />
+<img width="596" height="465" alt="Screenshot 2025-09-26 171319" src="https://github.com/user-attachments/assets/a63b5534-efce-4155-8f9f-f7e53018101a" />
 
   * Chọn OK, giao diện hóa đơn bàn cần tách được hiển thị và làm mới.
 
-<img width="592" height="465" alt="Screenshot 2025-09-26 171754" src="https://github.com/user-attachments/assets/d5b78f95-a298-4a66-8671-fd7bbab703bf" />
+<img width="687" height="448" alt="Screenshot 2025-09-26 171500" src="https://github.com/user-attachments/assets/a6faa74f-69d0-4c75-a72c-237618358cac" />
 
   * Thoát khỏi giao diện quản lý hóa đơn theo bàn.
 
   * Hiển thị giao diện chính đã tách bàn thành công.
 
-<img width="688" height="444" alt="Screenshot 2025-09-26 172058" src="https://github.com/user-attachments/assets/e8fc51f9-077b-4f60-849b-d927615a1381" />
+<img width="592" height="465" alt="Screenshot 2025-09-26 171754" src="https://github.com/user-attachments/assets/d5b78f95-a298-4a66-8671-fd7bbab703bf" />
 
 ## **6) Thanh toán**
 
-<img width="685" height="449" alt="Screenshot 2025-09-26 172347" src="https://github.com/user-attachments/assets/26a5304e-e487-4cea-b7f8-2dc76c4b214b" />
+<img width="688" height="444" alt="Screenshot 2025-09-26 172058" src="https://github.com/user-attachments/assets/e8fc51f9-077b-4f60-849b-d927615a1381" />
 
 * Chức năng: Thanh toán hóa đơn
 
@@ -127,6 +127,8 @@
   * Chọn OK, thanh toán thành công.
 
   * Hóa đơn chi tiết của bàn thanh toán được hiển thị
+
+<img width="685" height="449" alt="Screenshot 2025-09-26 172347" src="https://github.com/user-attachments/assets/26a5304e-e487-4cea-b7f8-2dc76c4b214b" />
 
 <img width="685" height="479" alt="Screenshot 2025-09-26 193549" src="https://github.com/user-attachments/assets/a275886c-8966-40b7-b47f-a6b8fd00442b" />
 
