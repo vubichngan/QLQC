@@ -20,7 +20,7 @@ Chào các bạn, đây là tài liệu dành cho những ai muốn phát triể
 
 ``` https://www.slideshare.net/votanphuc/gt-pttk-hethongthongtin ```
 ## 📖 Tài liệu tham khảo
-http://o7planning.org/vi/10299/huong-dan-cai-dat-va-cau-hinh-sql-server-express-2014
+``` http://o7planning.org/vi/10299/huong-dan-cai-dat-va-cau-hinh-sql-server-express-2014
 
 
 * Blog Thiết Kế Hệ Thống Thông Tin
